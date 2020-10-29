@@ -1,6 +1,6 @@
 ## Language Model Transformers as Evaluators for Open-domain Dialogues
 
-This repository provides the resources to reproduce the results reported in the paper: "Language Model Transformers as Evaluators for Open-domain Dialogues".
+This repository provides the resources to reproduce the results reported in the paper: "Language Model Transformers as Evaluators for Open-domain Dialogues" ([link](http://jens-lehmann.org/files/2020/coling_lm_dialogue_eval.pdf)).
 
 These are the instructions for reproducing the results. We provide the following scripts and resources:
 
